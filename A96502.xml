@@ -1,0 +1,435 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the Armie truly stated, together with the mischiefes and dangers that are imminent, and some sutable remedies, humbly proposed by the agents of five regiments of horse, to their respective regiments, and the whole Army. As it was presented by Mr. Edmond Bear, and Mr. William Russell, October 15. 1647. unto his Excellency, Sir Thomas Fairfax. Enclosed in a letter from the said agents : also his Excellencies honourable answer thereunto.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 64 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96502</idno>
+            <idno type="STC">Wing W2168A</idno>
+            <idno type="STC">Wing W2168B</idno>
+            <idno type="STC">Thomason E411_9</idno>
+            <idno type="STC">ESTC R40122</idno>
+            <idno type="EEBO-CITATION">99872571</idno>
+            <idno type="PROQUEST">99872571</idno>
+            <idno type="VID">161225</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96502)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161225)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 65:E411[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the Armie truly stated, together with the mischiefes and dangers that are imminent, and some sutable remedies, humbly proposed by the agents of five regiments of horse, to their respective regiments, and the whole Army. As it was presented by Mr. Edmond Bear, and Mr. William Russell, October 15. 1647. unto his Excellency, Sir Thomas Fairfax. Enclosed in a letter from the said agents : also his Excellencies honourable answer thereunto.</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+                  <author>Wildman, John, Sir, 1621?-1693.</author>
+                  <author>Everard, Robert, fl. 1664.</author>
+                  <author>Trevers, Edward.</author>
+                  <author>England and Wales. Army.</author>
+               </titleStmt>
+               <extent>[2], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeare, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on C4v: Robert Everard [and 11 others].</note>
+                  <note>The agents' letter signed on D2r-v by Edward Trevers and 10 others. Variant: the first two signatures omitted in printing; first signature is George Garret.</note>
+                  <note>Edited by Sir John Wildman.</note>
+                  <note>The title page is a singleton and is found in two settings; "yeare" in imprint is (1) capitalized or (2) lowercased. Some copies (Wing W2168B) appear without the title page and were probably issued as such; caption title, A1r, reads: The case of the Army truly stated, togegether [sic] with ..</note>
+                  <note>Quire A is in two impositions with accompanying revisions to the text, and quires B and D in two settings. A2r last line has (1) "securitie" or (2) "security"; B1r catchword is (1) "deprive" or (2) "for"; D1r catchword is (1) "tures" or (2) "use,".</note>
+                  <note>Annotation on Thomason copy: "8ber [i.e. October] 19".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161225:1" rendition="simple:additions"/>
+            <p>THE CASE OF THE ARMIE Truly ſtated, together with the miſchiefes and dangers that are imminent, and ſome ſutable remedies, Humbly propoſed by the Agents of five Regiments of Horſe, to their reſpective Regiments, and the whole Army. As it was preſented by Mr. <hi>Edmond Bear,</hi> and Mr. <hi>William Ruſſell,</hi> October 15. 1647. unto his Excellency, <hi>Sir Thomas Fairfax.</hi> Encloſed in a Letter from the ſaid Agents: Alſo his Excellencies Honourable Anſwer thereunto.</p>
+            <q>
+               <bibl>
+                  <hi>Deut. 20.8.</hi>
+               </bibl>
+               <p>What man is there that is fearefull and faint hearted? let him go and returne unto his Houſe, leaſt his brethrens heart faint as well as his heart.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Judg. 7.7.</hi>
+               </bibl>
+               <p>And the Lord ſaid unto <hi>Gideon,</hi> by the three hundred men that lapped, will I ſave you, and deliver the <hi>Midianites</hi> into thine hand, and let all the other people go, every man unto his place.</p>
+            </q>
+            <p>LONDON Printed in the Yeare, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161225:2"/>
+            <pb n="1" facs="tcp:161225:2" rendition="simple:additions"/>
+            <head>The Caſe of the Army truly ſtated, toge<g ref="char:EOLhyphen"/>gether with the miſchiefes and dangers that are imminent, and ſome ſutable remedies, Humbly propoſed by the Agents of five Regiments of Horſe, to the reſpective Regiments and the whole Army.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the grievances, diſſatisfactions, and deſires of the Army, both as Com<g ref="char:EOLhyphen"/>moners and Soldiers, hath been many months ſince repreſented to the Parli<g ref="char:EOLhyphen"/>ament; and the Army hath waited with much patience, to ſee their common grievances redreſſed and the rights and freedomes of the Nation cleared and ſecured; yet, upon a moſt ſerious and conſcientious view of our Narratives, Repreſentations, Ingage<g ref="char:EOLhyphen"/>ment, Declarations, Remonſtrances, and compairing with thoſe the preſent ſtate of the Army and Kingdome, and the preſent manner of actings of many at the Head Quarters, we not only apprehend nothing to have been done effectually, either for the Army or the poore oppreſſed people of the nation, but we alſo conceive, that there is little probabillitie of any good, without ſome more ſpeedy and vigorous actings.</p>
+            <p>In reſpect of the Army,* there hath been hitherto no publique vindication thereof, about their firſt Petition, anſwerable to the Ignominie, by declaring them enemies to the State, &amp; diſturbers of the peace: No publike clearing nor repairing of the credit of the Officers, ſent for about that petition as Delinquents: No proviſion for Apprentizes Widowes, Orphans, or mained Souldiers an<g ref="char:EOLhyphen"/>ſwerable to our reaſonable addreſſes propounded in their behalf: No ſuch Indempnitie, as provideth ſecurity, for the quiet, eaſe, or ſafety of the Soldiers, disbanded or to be disbanded. No ſecuritie
+<pb n="2" facs="tcp:161225:3"/>for our Arreers, or proviſion for preſent pay to inable the Army to ſubſiſt, without burthening the diſtreſſed Country. And in reſpect to the rights and freedomes of our ſelves and the people, that we declared we would inſiſt upon, we conceive there is no kind or degree of ſatisfaction given:<note n="a" place="margin">
+                  <hi>Viz.</hi> The copy of the grievan<g ref="char:EOLhyphen"/>ces preſenteD to the Parlia<g ref="char:EOLhyphen"/>ments Com<g ref="char:EOLhyphen"/>miſſioners at <hi>Saffron Wal<g ref="char:EOLhyphen"/>den.</hi>
+               </note> there is no determinate period of time ſet when the Parliament ſhall certainly end: The houſe is in no meaſure purged, either from perſons unduly elected, or from Delinquents,<note n="d" place="margin">
+                  <p>
+                     <hi>Viz.</hi> the Re monſt, of <hi>Iun.</hi> 23. pag. 6 7. Its mentioned as one of the diſatisfactions, that cauſed the march to Lon<g ref="char:EOLhyphen"/>don.</p>
+                  <p>See alſo the diſatisfactions of the Armie annexed to the Engagement. pag. 19, 20.</p>
+               </note> that appeared to be ſuch at the Armies laſt inſiſting upon their rights, or ſince; the<note n="b" place="margin">
+                  <hi>Viz.</hi> the Re<g ref="char:EOLhyphen"/>preſentation of the Armice disſatisfacti<g ref="char:EOLhyphen"/>ons, agreed on upon <hi>Iune</hi> 4. &amp; 5. pag. 17, 18, 19, 20, 21. where theſe were repreſen<g ref="char:EOLhyphen"/>ted as the ground of the filoma En<g ref="char:EOLhyphen"/>gagement.</note> honour of the Parliamentary au<g ref="char:EOLhyphen"/>thority <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> cleared, and vindicated from the moſt horrid inju<g ref="char:EOLhyphen"/>ſtice of that Declaration againſt the Army for petitioning nor of ſuppreſſing and burning Petitions, abuſing and impriſoning Pe<g ref="char:EOLhyphen"/>titioners: But thoſe ſtrange preſidents remaine upon Record, to the imfamy of Parliamentary authority; and the danger of our own and the peoples freedomes: The people are not righted, nor ſatisfied in point of accompts, for the vaſt ſummes of money diſ<g ref="char:EOLhyphen"/>burſed by them: None of the publique burthens, or oppreſſions, by arbitrary Committees,<note n="c" place="margin">
+                  <hi>Viz.</hi> the de<g ref="char:EOLhyphen"/>claration of <hi>Iu.</hi> 14 p 6.9.</note> iniuſtice in the Law, Tythes, Mono<g ref="char:EOLhyphen"/>polies, and reſtraint of free trade, but then ſome Oathes, inc qual<g ref="char:EOLhyphen"/>litie of Aſſeſſements, Excize, and otherwiſe are removed or lightned, the rights of the people in their Parliaments, concerning the nature and extent of that power, are not cleared and declared. So that we apprehend our own &amp; the peoples caſe, little (if in any meaſure) better, ſince the Army laſt hazarded themſelves for their own and the peoples rights and freedomes. Nay, to the griefe of our hearts, we muſt declare, that we conceive, the peo<g ref="char:EOLhyphen"/>ple and the Armies caſe much impaired, ſince the firſt Randez<g ref="char:EOLhyphen"/>vouz at <hi>New Market,</hi> when that ſolemne ingagement was entred into: And that from the conſideration.</p>
+            <p>That the Armies Engagement, Repreſentations, Declarati<g ref="char:EOLhyphen"/>ons, and Remonſtrances, and promiſes in them contained, are declined, and more and more dayly broken, and not only in ſome ſmaller matters, wherein the Armie and the Kingdome are not ſo neerly concerned, but in divers particulars of dangerous conſe<g ref="char:EOLhyphen"/>quence to the Army and the whole Nation. As,</p>
+            <p>Firſt, In the Engagement, pag. the 5. the Armie promiſed eve<g ref="char:EOLhyphen"/>ry Member thereof each to other, and to the Parliament and Kingdome, that they would neither disband nor divide, nor ſuf<g ref="char:EOLhyphen"/>fer
+<pb n="3" facs="tcp:161225:3"/>themſelves to be disbanded or divided untill ſatisfaction ſhould be given to the Army in relation to their grievances, and deſires; and ſecuritie that neither the Army nor the free borne people of <hi>England,</hi> ſhould remaine ſubiect to ſuch injuries, oppreſſion, and abuſe, as the corrupt party in the Parliament then had attempted againſt them.</p>
+            <p>Secondly, The Traine of Artillery is now to be disbanded, before ſatisfaction or ſecuritie is given to the whole Army in re<g ref="char:EOLhyphen"/>lation to themſelves, or other the free borne people, either in re<g ref="char:EOLhyphen"/>ſpect to their grievances or deſires. And when the ſtrength or ſinewes of the Army be broken, what effectuall good can be ſe<g ref="char:EOLhyphen"/>cured for themſelves or the people in caſe of oppoſition?</p>
+            <p>Thirdly, The Army is divided into quarters ſo farre diſtant, that one part is in no capabilitie to give timely aſſiſtance to ano<g ref="char:EOLhyphen"/>ther, if any deſigne ſhould be to disband any part by violence ſo<g ref="char:EOLhyphen"/>dainly, although neither our grievances nor deſires as Soldiers or Commoners are redreſſed or anſwered. And as we conceive this dividing of the Army before ſatisfaction or ſecuritie as afore<g ref="char:EOLhyphen"/>ſaid, to be contrary to the Armies intention in their Engagement, at the ſaid Randezvouz, ſo we conceive it hath from that time given all the advantage to the enemies, to band and deſigne a<g ref="char:EOLhyphen"/>gainſt the Armie, whereby not only pay hath been kept from the Soldiers, and ſecuritie for arreers prevented, but the kingdom was indangered to have been imbroyled in blood, and the ſettlement of the peace and freedome of the Nation, hath been thus long de<g ref="char:EOLhyphen"/>layed.</p>
+            <p>The whole intent of the Engagement,<note place="margin">
+                  <hi>Viz.</hi> His Ex<g ref="char:EOLhyphen"/>cellencies let<g ref="char:EOLhyphen"/>ter to the City ſent from <hi>Roy<g ref="char:EOLhyphen"/>ſton, Iune</hi> 16.</note> and the equitable ſenſe of it, hath been perverted openly, by affirming, and by ſini<g ref="char:EOLhyphen"/>ſter meanes making ſeeming determinations in the Counſell, that the Army was not to inſiſt upon or demand any ſecuritie, for any of their own or other the free borne peoples freedoms or rights, though they might propound any thing to the Parlia<g ref="char:EOLhyphen"/>ments conſideration; and according to that high breach of their Engagement, their actions have been regulated, and nothing that was declared formerly, to be inſiſted upon, hath been reſolvedly adhered to, or claimed as the Armies or the peoples due, and we conceive it hath been by this meanes, that the Soldier hath had no pay conſtantly provided, nor any ſecuritie for Ar<g ref="char:EOLhyphen"/>reers
+<pb n="4" facs="tcp:161225:4"/>given them, &amp; that hitherto they could not obtain ſo much, as to be paid up equally with thoſe that did deſert the Army,<note place="margin">The pay ſince received hath not been ſo much as ſince accrued to be due in courſe, and therefore that anſwers not the three moneths Ar<g ref="char:EOLhyphen"/>reers that was paid to the de<g ref="char:EOLhyphen"/>ſerters of the Armie.</note> it not being poſſitively inſiſted upon although in the Remonſtrance of <hi>Iune,</hi> 23. pag. 11. It was declared, that it ſhould be inſiſted up<g ref="char:EOLhyphen"/>on reſolvedly, to be done before the <hi>Thurſday</hi> night after the ſend<g ref="char:EOLhyphen"/>ing that Remonſtrance, and its now many moneths ſince.</p>
+            <p>Fourthly, In the proſecution of this breach, there hath been many diſcouragements of the Agitators of the Regiments, in conſulting about: the moſt effectuall meanes, for procuring the ſpeedy redreſſe of the peoples grievances, and clearing and ſe<g ref="char:EOLhyphen"/>curing the native rights of the Army, and all others the free Commons.</p>
+            <p>It hath been inſtilled into them, that they ought not to inter<g ref="char:EOLhyphen"/>meddle with thoſe matters, thereby to induce them, to betray the truſt the Regiments repoſed in them; and for that purpoſe, the endeavours of ſome hath been to perſwade the Soldiery, that their Agitators have medled with more, then concerned them. In the Declaration of <hi>Iune</hi> 14. pag. <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> It was declared that the Ar<g ref="char:EOLhyphen"/>my would adheare to their deſires of full and equall ſatisfaction to the whole Soldiery of the Kingdome in Arreers, Indempnity, and all othre things mentioned in the papers, that contained *<note place="margin">It was decla<g ref="char:EOLhyphen"/>red to be one of the chiefe grounds of diſcontent, if any part of the Armie ſhould be diſ<g ref="char:EOLhyphen"/>banded before ſatisfaction was given to the whole, See the Engage<g ref="char:EOLhyphen"/>ment pag. 3. and the Ar<g ref="char:EOLhyphen"/>mies firſt grie<g ref="char:EOLhyphen"/>vances, and are not all that concurred with the Armie in the ſame conditi<g ref="char:EOLhyphen"/>on?</note> the grievances, diſatisfactions and deſires who did then, or ſhould afterward concurre with this Army in theſe deſires.</p>
+            <p>But many thouſands who have concurred with this Army, are now to be ſent for <hi>Ireland,</hi> or to be disbanded with two moneths pay, before any ſecuritie for Arrears, or ſufficient Indempnitie, or any ſatisfaction to any deſires as Soldiers or Commoners, then propounded; ſo now our Declaration is forgotten, and the faith of the Army, and his Excellency broken, for it may be remem<g ref="char:EOLhyphen"/>bred, that his excellency often promiſed, that the ſame care ſhould be taken for thoſe, that concurred, that ſhould be for this Army, therefore if this courſe be driven on, what better can wee expect for our ſelves in the end?</p>
+            <p>Sixtly, In the ſame Declaration, <hi>June</hi> 14. pag. 6. it is declared that the Army took up Armes, in judgement and conſcience, for the peoples juſt rights and liberties, and not as mercenary Soul<g ref="char:EOLhyphen"/>diers, hired to ſerve an arbitrary power of the State, and that
+<pb n="5" facs="tcp:161225:4"/>in the ſame manner it continued in armes at that time, and pag. 7. of the ſame Declaration, it was declared that they proceeded up<g ref="char:EOLhyphen"/>on the principles of right and freedome, and upon the law of na<g ref="char:EOLhyphen"/>ture and Nations, But the ſtrength of the endeavours of many hath been, and are now, ſpent to perſwade the Soldiers and Agi<g ref="char:EOLhyphen"/>tators, that they ſtand as Soldiers only to ſerve the State, and may not as free Commons claime their right and freedome as due to them, as thoſe ends for which they have hazzarded their lives, and that the ground of their reſuſing to disband, was only the want of Arrears and Indempnitie.</p>
+            <p>Seventhly, In the Remonſtrance <hi>June</hi> 23. pag. 14. compared with pag. 15. it was declared, that ſuch extraordinary courſes ſhould be taken as God ſhould direct &amp; enable them thereunto, to put things to a ſpeedy iſſue, unles by the <hi>Thurſday</hi> then imediately following, aſſurance and ſecuritie were given to the Army and Kingdome, that the things deſired in the Declaration, <hi>Iune</hi> the 14. ſhould be ſpeedily granted and ſetled.</p>
+            <p>But there hath been ever ſince, a totall neglect of inſiſting poſ<g ref="char:EOLhyphen"/>ſitively upon the redreſſe of thoſe grievances, or granting thoſe deſires of the Army as Soldiers. That the Declaration of <hi>June</hi> the 14. pag. the 3. refers unto, as formerly expreſſed, and not ſo much as one of thoſe deſires, as Commoners of <hi>England</hi> in the behalfe of themſelves and others, (propounded in the ſame Declaration, pag. 6.9, 10, 11.) hath been inſiſted upon poſſitively; neither ſet<g ref="char:EOLhyphen"/>ting a determinate period, wherein the Parliament ſhall certain<g ref="char:EOLhyphen"/>ly end, nor purging the Houſe, nor clearing the rights of the peo<g ref="char:EOLhyphen"/>ple, in petitioning nor the righting of them in accounts, &amp;c. ſo that by theſe declinings of the Army,<note place="margin">
+                  <hi>Viz.</hi> declara<g ref="char:EOLhyphen"/>tion <hi>Iune</hi> 14. pag. 4.</note> from inſiſting reſolvedly upon the peoples, and the Armies own rights, both are after long expectations, as farre from right and freedome, as though there had been no man to plead <hi>p</hi> their cauſe. And herein it is to be ob<g ref="char:EOLhyphen"/>ſerved, that the neglect of inſiſting upon our moſt juſt deſites, hath given enemies ſuch ſecret incouragement, that they ſhufle off any deſires, though propounded; as to be inſiſted upon,<note place="margin">
+                  <hi>Viz.</hi> the Ar<g ref="char:EOLhyphen"/>mies repreſen<g ref="char:EOLhyphen"/>tation of diſae tisfaction <hi>Iun.</hi> 4.5. page 19.</note> as may be men<g ref="char:EOLhyphen"/>tioned in that our juſt deſire, of recalling publikely the Declarati<g ref="char:EOLhyphen"/>on, inviting al to deſert the Army, &amp; profeſſed to be inſiſted upon, in the ſame Declaration, <hi>June</hi> 23. pag. 11. which notwitſtanding to this day was never publiquely recalled; ſo likewiſe the deſire
+<pb n="6" facs="tcp:161225:5"/>of vindicating the Parliaments honour, in relation to a publique diſowning the order to ſuppreſſe our firſt Petition, and many others.<note place="margin">The parlia<g ref="char:EOLhyphen"/>ment &amp; <hi>Scots</hi> Commiſſio<g ref="char:EOLhyphen"/>ners long ſince reſolved that ſatisfaction and ſecuritie was to be gi<g ref="char:EOLhyphen"/>ven to the people in rela<g ref="char:EOLhyphen"/>tion to thoſe publike ends for which they expended ſo much treaſure and blood, before the King ſhould be provided for this is hinted in the Remon<g ref="char:EOLhyphen"/>ſtrance ſigned <hi>King ſtone,</hi> page 11.</note>
+            </p>
+            <p>Eightly, In the declaration of <hi>Iune</hi> 14. pag. 10. as in all other Remonſtrances and Declarations, it was deſired, that the rights and liberties of the people might be ſecured, before the Kings bu<g ref="char:EOLhyphen"/>ſincſſe ſhould be conſidered. But now the grievances of the peo<g ref="char:EOLhyphen"/>ple are propounded to be conſidered after the reſtoring him to the regall power, and that in ſuch a way according to the propoſals <hi>viz.</hi> with a negative voice, that the people that have purchaſed by blood what was their right, of which the King endeavoured to deprive them, ſhould yet ſolely depend on his will, for their re<g ref="char:EOLhyphen"/>liefe in their grievances and oppreſſions; and in like manner the ſecuritie for the Armies Arrears is propoſed, to be conſidered after the buſineſſe of the King be determined, ſo that there is a totall declenſion ſince the method formerly deſired, in the ſetling the peace of the Nation.</p>
+            <p>Ninthly, It hath been alwayes profeſſed and declared, that the Army was called forth and conjured by the Parſiaments Decla<g ref="char:EOLhyphen"/>rations, for defence of the peoples rights, againſt the forces raiſed by the King, and for delivering the King from his evill Councell, who ſeduced him to raiſe the war, and bringing Delinqueuts to condigne puniſhment, But now through the Armies countenance and indulgence, thoſe conquered enemies, that were the Kings forces, abuſe, reproach, and againe inſult over the people, whoſe freedome was the grounds of the Armies engagement, yea, the Kings evill Councellors, that concurred in deſigning all the miſ<g ref="char:EOLhyphen"/>chiefes in the Kings late warre againſt the people, are againe re<g ref="char:EOLhyphen"/>ſtored to him, and are admitted free acceſſe without check into all the Armies quatters, whereby they are reſtored to a capacitie of plotting and deſigning miſchiefe againſt the Armie and king<g ref="char:EOLhyphen"/>dome.</p>
+            <p>Tenthly, When imminent ruine, to the whole nation was ap<g ref="char:EOLhyphen"/>prehended, by meanes of the multitudes of corrupted Members in Parliament, diverting and obſtructing all good proccedings; then the purging of the Houſe in part, from one kind of Delin<g ref="char:EOLhyphen"/>quents, was againe inſiſted upon, and a ſolemn Proteſtation was paſſed in the remonſtrance from <hi>Kingſtone,</hi> pag. 21. That the
+<pb n="7" facs="tcp:161225:5"/>Armie would not permit thoſe to ſit in the Houſe, that uſurped the name and power of Parliamentary authoritie, when the Par<g ref="char:EOLhyphen"/>liament was by violence ſuſpended, and endeavoured to raiſe a warre to diſtroy the Parliament and Army, but that they would take ſome effectuall courſe to reſtraine them from ſitting there, that the people might be concluded only by thoſe Members that are free from ſuch apparant treacherous breaches of their truſt.</p>
+            <p>But hitherto this Engagement for purging the Houſe from thoſe Delinquents, (whoſe intereſt ingages them to be deſigning miſchiefe againſt the people and Army) is declined and broken, to the black reproach and fouleſt infamie of the Army; and now theſe ſtrong cords are cut in ſunder and ſo forgotten, that there are no viſible endeavours or intentions, to preſerve the honour of the Armie, in its faithfullneſſe to its Engagement and Proteſta<g ref="char:EOLhyphen"/>tion.</p>
+            <p>Thus all promiſes of the Armie to the people that Petitioned his Excellencie and the Army to ſtand for the National intereſt, free<g ref="char:EOLhyphen"/>domes and rights, are hitherto wholly declined, and the law of na<g ref="char:EOLhyphen"/>ture and nations now refuſed by many to be the rule by which their proceedings ſhould be regulated; they now ſtrip themſelves of the intereſt of Engliſh men,<note place="margin">See his Excel<g ref="char:EOLhyphen"/>lencies letter to the City, dated <hi>Iu.</hi> 10. pag. 4.</note> which was ſo ill reſented when it was attempted by the mallice of the enemies.* And thus the peo<g ref="char:EOLhyphen"/>ples expectations that were much greatned, and their hopes of re<g ref="char:EOLhyphen"/>liefe in their miſeries and oppreſſions which were ſo much height<g ref="char:EOLhyphen"/>ned are like to be fruſtrate, and while you looke for peace and free<g ref="char:EOLhyphen"/>dome, the flood-gates of ſlaverie, oppreſſion and miſerie are o<g ref="char:EOLhyphen"/>pened upon the Nation, as may appeare by the preſent mani<g ref="char:EOLhyphen"/>fold dangers that incompaſſe about the Army and the whole Nation.</p>
+         </div>
+         <div type="text">
+            <pb n="8" facs="tcp:161225:6"/>
+            <head>The miſchiefes, evills, and dangers, which are and will be the neceſſar conſequence of the Armies declining or delaying the effectuall ful<g ref="char:EOLhyphen"/>filling of its firſt Engagement, Promiſes and Declarations or of its neglect to inſiſt poſſitively upon its firſt prin<g ref="char:EOLhyphen"/>ciples of common right and freedome.</head>
+            <p>VVHereas its now many moneths ſince the Army declared (In anſwer to the Petitions of divers Counties, and from the ſenſe of an abſolute neceſſitie thereof,) that they would inſiſt upon the peoples intereſt; as in the Declaration of <hi>Iune</hi> 14 pag. 13. And yet no reliefe for the people in any of their oppreſſions,<note place="margin">Then alſo they profeſſed that they hoped God would cleare it, that they have acted the kingdomes and every honeſt mans intereſt. <hi>viz.</hi> the Re<g ref="char:EOLhyphen"/>monſtrance from <hi>Kingſtone</hi> pag. 12.</note> by arbitrary powers, Monopolies, in<g ref="char:EOLhyphen"/>iuſtice in the proceeding at Law, Tythes, Excize, &amp;c. is effectu<g ref="char:EOLhyphen"/>ally procured; nor any greater probabillitie of future helpe is viſible then was before; no foundations of freedome being yet laid; and yet the Soldiery burthening the country with free quarters and occaſioning greater taxes. Theſe five miſchiefes and dangers enſue inevitably.</p>
+            <p>Firſt, The love and affection of the people to the Armie, which is (an armies greateſt ſtrength) is decayed, cooled, and neere loſt; its already the common voice of the people, what good hath our new Saviours done for us? What grievances have they procured to be redreſſed? Wherein is our condition bettered? or how are we more free then before?</p>
+            <p>Secondly, Not only ſo, but the Army is rendred as an heavie burthen to the people, in regard more pay is exacted dayly for them, and the people find no good procured by them, thats an<g ref="char:EOLhyphen"/>ſwerable or equivolent to the charge, ſo that now the people begin to cry lowder for disbanding the Army then they did formerly for keeping us in Armes, bcauſe they ſee no benefit accruing, they ſay they are as likely to be oppreſſed and inſlaved both by King and Parliament, as they were before the Armie engaged profeſ<g ref="char:EOLhyphen"/>ſedly to ſee their freedomes cleared and ſecured.</p>
+            <p>Thirdly, whilſt the peoples old oppreſſions are continued, and more taxes alſo are impoſed for pay for the Army, they are diſa<g ref="char:EOLhyphen"/>bled dayly more &amp; more for the mantaining of an Army for their preſervation, for they beginne to ſay, they can but be diſtroyed by
+<pb n="9" facs="tcp:161225:6"/>oppreſſion, and its all one to them, whether it be by pretended friends or profeſſed Enemies, it were as good, ſay they, that the King ſhould rule againe by prerogative; we were ſlaves then to his will, and we are now no better; we had rather have one tyrant then hundreds.</p>
+            <p>Fourthly, By this meanes, diſtractions diviſions heart burnings and jealouſies are increaſed to the imminent danger of ruine to the Army and kingdome; the people are inclined to tumults, cry<g ref="char:EOLhyphen"/>ing out, will none procure relieſe for us! ſhall we alwayes be de<g ref="char:EOLhyphen"/>luded with faire words, and be devoured by oppreſſors? we muſt ere long riſe up in armes, and every one catch what he can: thus confuſion is threatned.</p>
+            <p>Fiftly, The Army is expoſed to contempt and ſcandall, and the moſt black reproaches, and infomies are caſt upon them; the peo<g ref="char:EOLhyphen"/>ple ſay, that their reſolutions not to disband were, becauſe they would live idlly on the peoples labours; and when the Soldiers are conſtrained to take free quarters, <hi>this</hi> (ſaith the people) is for freedome, and right, to cate the bread out of our childrens mouths: ſo that many Soldiers are aſhamed of themſelves, and feare that the people ſhould riſe to diſtroy them: you will doe no<g ref="char:EOLhyphen"/>thing for us (ſay they) we are vexed by malignant Iudges, for conſcience ſake, by arbitrary Committees in the Country, and at Parliament ordering one thing this day, and recalling it the next to out intollerable vexation; injuſtice in the ſaw is the ſame, and we buy our right at as deare a rate as ever, Tythes are infor<g ref="char:EOLhyphen"/>ced from us double and threble Excize continues, we can have no accompts of all our moneys disburſed for the publike, more is dayly required, and we know not what is become of all we have paid already, the Soldiers have little pay, and the maimed Soldiers, Widowes, and Orphans, are thruſt upon us to be parriſh charges.</p>
+            <p n="2">2ly. Whereas the Engagement is broken, and the firſt princi<g ref="char:EOLhyphen"/>ples deſerted or neglected,<note n="*" place="margin">They for<g ref="char:EOLhyphen"/>merly prevail<g ref="char:EOLhyphen"/>ed and pro<g ref="char:EOLhyphen"/>ceeded in that way viz Dcl. offered to the Commiſſioners at <hi>Saffron Wal<g ref="char:EOLhyphen"/>den.</hi>
+               </note> theſe miſchiefes and dangers have caſued.</p>
+            <p n="1">1. The enemies are incouraged and imboldned to proceed in prejudice to the people &amp; the Army as formerly: they may receive hopes upon the armies own words in their general Councels, that the army will not oppoſe or diſturbe them in their proceedings, to
+<pb n="10" facs="tcp:161225:7"/>deprive the Armie and people of their native rights; for if they can abuſe the Parliament, or ſurprize them as formerly, they may ſay for themſelves, the Armie hath declared, that they ſtand on<g ref="char:EOLhyphen"/>ly as Soldiers, and will not inſiſt upon any poſſitive demand of their own and the Nations freedomes, and was it not this that imboldned the enemies formerly to ſuppreſſe our firſt petition, and declare us enemies, for petitioning? they thought we would have ſtood only as mercenary Soldiers, hired to ſerve their ar<g ref="char:EOLhyphen"/>bitrary power; and not remembred that we by, their invitation took up armes in judgement and conſcience, to preſerve the na<g ref="char:EOLhyphen"/>tion from tyrannie and oppreſſion, and therefore were obleiged to inſiſt upon our rights and freedomes as Commoners, and ſurely it hath been upon this ground, that they kept us without money ſo long, thinking we would not or durſt not inſiſt upon our de<g ref="char:EOLhyphen"/>mands of that which is due to us; and upon this ground we judge the Parliament hath proceeded of late to increaſe the peoples op<g ref="char:EOLhyphen"/>preſſions, by an Ordinance for trible dammages, to be paid by all that refuſe, (though for conſcience ſake) to pay Tythes, and an Ordinance to lock up the printing preſſes againſt whom they pleaſe, which was in the Biſhops time complained of, as one of the great oppreſſions, and have flighted juſt petitions, and negle<g ref="char:EOLhyphen"/>cted to conſider and redreſſe the priſoners grievances and op<g ref="char:EOLhyphen"/>preſſions, and the ſufferings of conſcientious perſons, by the un<g ref="char:EOLhyphen"/>juſt ſtatutes againſt Convinticles ſo ſtiled, and ſtatutes for Common prayer Book, and enforcing all to come to Church, and all other the peoples grievances.</p>
+            <p n="2">2. From the Armies declining their firſt principles, the ſame corrupt Members remaine in Parliament that cauſed the Army to be proclaimed enemies for petitioning, and its to be obſerved that through the influence of thoſe in the Houſe, there was never any publike vindication of the Armys honour, and of the juſtice of their petitioning at that time; and can the Armie be ſafe, ſo long as its old declared enemies are in power, and doe but watch the fitteſt opportunitie to worke any miſchiefe, but not only thoſe enemies remain in power,<note n="*" place="margin">viz. the Re<g ref="char:EOLunhyphen"/>monſtrance from <hi>
+                     <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ngſton Auguſt</hi> 18, pag. 21.</note> and watch to diſtroy you, but 65. at leaſt that lately voted and endeavoured to raiſe a new war, to diſtroy the Army, are ſuffered to vote in the Parliament, though the Army hath proteſted ſolemnly, they would not ſuffer thoſe
+<pb n="11" facs="tcp:161225:7"/>uſurpers to ſit there, or that they would be concluded by thoſe that were coactors in ſuch treaſonable breaches of their truſt.</p>
+            <p n="3">3. Through the Armies dividing contrary to the Engagement, and neglecting to inſiſt upon the firſt declaration, the enemies have had power and opportunitie, to prevent them of their con<g ref="char:EOLhyphen"/>ſtant pay, and obſtruct all proceedings to ſecuritie for arreers, whereas otherwiſe the enemies would not have dared to preſume to obſtruct good proceedings, and to proſecute their deſignes a<g ref="char:EOLhyphen"/>gainſt the armie.</p>
+            <p n="4">4. Through the armies back-ſliding from the Remonſtrance, and Proteſtation from <hi>Kingſtone, Auguſt.</hi> 18. thoſe that lately en<g ref="char:EOLhyphen"/>deavoured to raiſe a warre againſt the Parliament and Army, con<g ref="char:EOLhyphen"/>tinue in the Houſe, and have paſſed an Ordinance,<note n="*" place="margin">viz. Dec. ſhewing the reaſons of their laſt march unto London pag. 9.</note> wherein thoſe bettayers of their truſt are acknowledged to have been a Houſe of Parliament, when the Parliament was forced away and ſuſ<g ref="char:EOLhyphen"/>pended, and the Armie having declared them to be no Parlia<g ref="char:EOLhyphen"/>ment, and his Excellencie ſlighted their command, at <hi>Colebrooke</hi> profeſſing he knew no Parliament, to which he ſhould ſend, are by this made guilty of the higheſt treaſon, and ſo a ſnare is laid for his Excellencie and the Army, that when the enemies ſhall have the advantage, they may be declared traytors, for declaring againſt the Parliament, and diſowning their authoritie, ſo that if ſome ſpeedy remedie be not applyed, no man knowes how ſoon the enemie may prevaile to diſtroy his Excellency, the Armie and kingdome by this meanes: and the pollicie of the enemie <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to be obſerved, that they would never ſuffer that Declaration to be debated in the Houſe, that was publiſhed at the Armies mar<g ref="char:EOLhyphen"/>ching towards London, wherein thoſe that uſurped the power of a Parliament, when the Parliament was ſuſpended, were declared to be no legall Parliament: but the Declaration and Remon<g ref="char:EOLhyphen"/>ſtrance of <hi>Auguſt</hi> 18, wherein the Armie proteſted againſt the ſit<g ref="char:EOLhyphen"/>ting of thoſe uſurpers in the Houſe, may together be made the ground of their declaring us Traytors upon any advantage, for diſowning, and declaring againſt the ſupreame authoritie of the Nation, in caſe thoſe uſurpers ſhall continue to be acknow<g ref="char:EOLhyphen"/>ledged a houſe of Parliament, sit remaines at preſent by the late Ordinance of <hi>Auguſt</hi> 20. procured to be paſſed by thoſe Vſurpers themſelves fitting Iudges of their own caſe.</p>
+            <pb n="12" facs="tcp:161225:8"/>
+            <p n="5">5 By this neglect and declining of the Army, The Parliament is returned to their old delatory way of proceeding, neither inſiſt<g ref="char:EOLhyphen"/>ing upon the relieving the people ſpeedily and effectually in any of their grievances, nor providing conſtain pay for the Army, nor ſecuritie for arreers; ſo that the delayes that are occaſioned through the Armies declining their firſt principles are as di<g ref="char:EOLhyphen"/>ſtructive to the Armie and Kingdome as if there were direct a<g ref="char:EOLhyphen"/>ctings by the Army againſt the Kingdomes peace.</p>
+            <p n="6">6 Through the ſame declenſion of the Armies firſt principles, and the good and neceſſary method propounded for ſetling the nation in peace and freedome before the kings buſineſſe be con<g ref="char:EOLhyphen"/>ſidered, the King is likely to recover his old capacity, before the peoples freedomes (which they have redeemed out of the hands of him &amp; his forces by blood) be cleared and eſtabliſhed ſe<g ref="char:EOLhyphen"/>curely, &amp; likewiſe before any ſecurity be given for arreers; &amp; then what probabilitie there is that then there ſhould be any good ſe<g ref="char:EOLhyphen"/>curitie of pay obtained for the armie that conquered him, &amp; for the freedomes of theſe that aſſiſted them, let any rational man iudget It may more certainly be expected, that he will provide for the pay and Airers of his own Soldiery rather then of ours. And likewiſe by the ſame meanes, the armies and their aſſiſtants indempnitie, is propounded to receive its ſtrength from the Kings conſent; whereas not only his ſigning of, or conſent to any act is wholly null and void in law, becauſe he is under reſtraint, and ſo our indempnitie, will be inſufficient, if it ſhall depend in the leaſt, on his confirmation. But alſo its the higheſt diſparagement to the ſupream authority of this Nation, the Parliament, that when they have commanded an armie upon ſervice againſt the King, they ſhould not have ſufficient power to ſave them harmeleſſe for obedience to their commands, and alſo its the higheſt diſhonour to the armie, that they ſhould ſeeke to the conquered enemie to ſave them harmeleſſe for fighting againſt them, which is to aske him pardon, &amp; ſo will remain as a perpetual reproach upon them.</p>
+            <p n="7">7. Through the armies declining its firſt principles, to inſiſt upon ſatisfaction and ſecuritie as Soldiers &amp; Commoners before disbanding or dividing the armie, is it now likely to be ſo far ſcat<g ref="char:EOLhyphen"/>tered into ſeverall quarters, that it ſhall be in no capacitie, to in<g ref="char:EOLhyphen"/>ſiſt upon ſecuritie for arreers, ſufficient indempnitie or upon any its own or the nations rights, in caſe they ſhall be ſtill denyed them.</p>
+            <pb n="13" facs="tcp:161225:8"/>
+            <p n="8">8. It is to be conſidered that the enemies on the one hand, and the other increaſe dayly in their boldneſſe, confidence, and ſtrength, whileſt ſecuritie for the armies arreers, and conſtant fu<g ref="char:EOLhyphen"/>ture pay (ſo long as it ſhall be continued) are not provided, and and the rights and freedomes of the people are not cleared and ſe<g ref="char:EOLhyphen"/>cured, &amp; the armie may divide in caſe one part ſhould inſiſt upon the firſt juſt principles, and be faithfull thereunto, and another part ſhould by flatteries, preferments, feare or negligence decline or deſert them, and let it be conſidered what ſtrength that would adds to the enemies, and how far it will indanger the ruine of the armie and kingdome.</p>
+            <p>Now we cannot but declare, that theſe ſad apprehenſions of miſchiefes, dangers and confuſion gaping to devoure the armie hath filled our hearts with troubles, that we never did, nor doe regard the worſt of evills or miſchiefes that can befall our ſelves in compariſon to the conſequence of them to the poore Nation, or to the ſecurity of common right and freedom, we could not but in (reall not formall fained) trouble of heart for the poore Nation and oppreſſed people, breake forth and cry, O our bowels! our bowels! we are troubled at the very heart to heare the peoples dol<g ref="char:EOLhyphen"/>full groanes, and yet their expected deliverers will not heare or confider, they have run to and fro, and ſighed or even wept forth forth their ſorrowes and miſeries, in petitions, firſt to the King then to the Parliament, and then to the armie, yet they have all been like broken reeds, even the armie it ſelfe upon whom they leaned have pierced their hands, their eyes even faile with looking for peace and freedome, but behold nothing but diſtraction, op<g ref="char:EOLhyphen"/>preſſion and trouble, and could we hope that helpe is intended, yet the people periſh by delayes, we wiſh therefore that the bow<g ref="char:EOLhyphen"/>ells of compaſſion in the whole armie might yearne towards their diſtreſſed brethren, and that they might with one conſent ſay each to other, come let us joyne together ſpeedily to demand pre<g ref="char:EOLhyphen"/>ſent redreſſe for the peoples grievances, and ſecuritie for all their and our own rights and freedomes as Soldiers and Commoners. Let us never divide each from other till thoſe juſt demands be an<g ref="char:EOLhyphen"/>ſwered really and effectually, that ſo for the peoples caſe as many forces as are not abſolutely neceſſary may be ſpeedily disbanded and our honour may be preſerved unſpotted, when they ſhall ſee,
+<pb n="14" facs="tcp:161225:9"/>that we minded not our own intereſt, but the good, freedome, and welfare of the whole Nation. Now to all that ſhall thus appeare we propound.</p>
+            <p>That whatſoever was propoſed to be inſiſted on either, in the the Declaration of <hi>June</hi> the 14. or the Remonſtrance <hi>Iune</hi> 23 and in the Remon. from <hi>Kingſtone, Auguſt</hi> 18. be adhered to reſol<g ref="char:EOLhyphen"/>vedly, ſo as not to reced from thoſe deſires, untill they be throughly and effectually anſwered: more particularly that whereas it appeares by poſſitive lawes and antient juſt cuſtomes, that the people have right to new ſucceſſive elections for Parlia<g ref="char:EOLhyphen"/>ments at certain periods of time, and that it ought not to be deny<g ref="char:EOLhyphen"/>ed them, being ſo eſſentiall to their freedome, that without it they are no better then ſlaves, the nature of that legiſlative power, being arbitrary and that therefore it be inſiſted on ſo poſſitively, and reſolvedly, as not to recede from it.</p>
+            <p n="1">1. That a determined period of time, be forthwith ſet, wherein this Parliament ſhall certainly be deſolved, provided alſo that the ſaid period be within 9. or 10. moneths, next enſuing, that ſo there may be ſufficient time for ſetling of peace and freedome.</p>
+            <p n="2">2. Whereas all good is obſtructed and diverted by the power &amp; influence of Delinquents the late uſurpers, &amp; undu elected ones in the Parliament, that therfore it be poſſitively &amp; reſolvedly inſi<g ref="char:EOLhyphen"/>fled on; that the houſe be forth with purged, from al that have ſor<g ref="char:EOLhyphen"/>fited their truſt or were unduly elected, but eſpecially that an or<g ref="char:EOLhyphen"/>der be paſſed forthwith, for the expelling all thoſe from the houſe, who ſate in the late pretended Parliament, &amp; that likewiſe a ſevere penalty be ordered to be impoſed on every of thoſe uſurpers that ſhall preſume to ſit in the Houſe, for the paſſing of ſuch an order, before they ſhall have given ſufficient evidence, that they neither voted for a new warre, or for the Kings comming to London up<g ref="char:EOLhyphen"/>on his own tearmes.</p>
+            <p n="3">3. Wheras his Excellencie &amp; the whole armie, were guilty of the higheſt treaſon if the pretended Parliament had been a legall Par<g ref="char:EOLhyphen"/>liament, and its apparent that they were no legall Parliament, that therefore it be poſſitively and reſolvedly inſiſted upon, that the Declaration of the army upon their laſt march up to London be forthwith publikely owned, and approved of by the Parliament, and that the ſame publique approbation be Paſſed upon the Re<g ref="char:EOLhyphen"/>mon, and proteſt ſent from <hi>Kingſtone Auguſt</hi> 18.</p>
+            <pb n="15" facs="tcp:161225:9"/>
+            <p n="5">5. Whereas Parliaments rightly conſtituted are the foundation of hopes of right and freedome to this people, and whereas the people have been prevented of Parliaments, though many poſſitive lawes have been made for a conſtant ſucceſſion of Parliaments, that the be<g ref="char:EOLhyphen"/>fore it be poſſitively and reſolvedly inſiſted upon, that a law peramount be made, enacting it, to be unalterable by Parliaments that the peo<g ref="char:EOLhyphen"/>ple ſhall of courſe meet without any warrants or wries once in every two yeares upon an appointed day in their reſpective Countryes, for the election of the repreſentors in Parliament, and that all the freeborn at the age of 21. yeares and upwards, be the electors, excepting thoſe that have or ſhall deprive themſelves of that their freedome, either for ſome yeares, or wholly by delinquency, and that the Parliament ſo e<g ref="char:EOLhyphen"/>lected and called, may have a certaine period of time ſet, wherein they ſhall of courſe determine, and that before the ſame period they may not be adjurnable and diſolvable by the King, or any other ex<g ref="char:EOLhyphen"/>cept themſelves.</p>
+            <p>Whereas all power is originally and eſſentially in the whole body of the people of this Nation, and whereas their free choice or conſent by their Repreſentors is the only originall or foundation of all juſt government, and the reaſon and end of the choice of all juſt Gover<g ref="char:EOLhyphen"/>nors whatſoever is their apprehenſion of ſafety and good by them, that it be inſiſted upon poſſitively. That the ſupreame power of the peoples repreſentors or Commons aſſembled in Parliament be forth<g ref="char:EOLhyphen"/>with clearly declared as their power to make lawes, or reveale lawes, (which are not or ought not to be unalterable) as alſo their power to call to an account all officers in this Nation whatſoever, for their neg<g ref="char:EOLhyphen"/>lect or treacheries in their truſt for the peoples good, and to continue or diſplace and remove them from their offices, dignities or truſt ac<g ref="char:EOLhyphen"/>cording to their demerrits, by their faithfulneſſe or treacherie in the buſineſſe or matters where with they are intruſted and further that this power to conſtitute any kind of governors or officers, that they ſhall judge to be for the peoples good, be declared, and that upon the aforeſaid conſiderations it be inſiſted upon, that all obſtructions to the freedome and equallitie of the peoples choice of their Repreſentors, either by Patients, Charters or uſurpations, by pretended cuſtomes, be removed by theſe preſent Commons in Parliament, and that ſuch a freedome of choice be provided for, as the people may be equally re<g ref="char:EOLhyphen"/>preſented. This power of Commons in Parliament, is the thing a<g ref="char:EOLhyphen"/>gainſt which the King hath contended, and the people have defended
+<pb n="16" facs="tcp:161225:10"/>with their lives, and therefore ought now to be demanded as the price of their blood.</p>
+            <p>That all the oppreſſions of the poore by Excize upon Beare, Cloath, Stuffes, and all manufacturies, and Engliſh commodities; be forth<g ref="char:EOLhyphen"/>with taken off, and that all Excize be better regulated, and impoſed upon forraign commodities, and a time ſet wherein it ſhall certainly end, if there be a neceſſity of its preſent continuance on ſuch commo<g ref="char:EOLhyphen"/>dities.</p>
+            <p n="3">3. Whereas the people have disburſed ſuch vaſt ſums of money, by Pole-money, Subſidies, propoſition money, Contribution, the five and twentieth part, viewes and reviewes of the ſame monethly aſſeſſe<g ref="char:EOLhyphen"/>ments, Excize, and other wayes, and ſuch vaſt ſums have been colle<g ref="char:EOLhyphen"/>cted and enforced by Sequeſtrations, Compoſitions, ſale of Biſhops lands, and other wayes, that the whole charge of the forces by ſea and land might have been defrayed to the utmoſt farthing, and yet many millions of money remained of all that have been disburſed freely, or enforced had been faithfully brought into the publike treaſury, and im<g ref="char:EOLhyphen"/>proved for the publique uſe, only therefore that in reſpect to the peo<g ref="char:EOLhyphen"/>ples right, and for their eaſe, and for better and more eaſie proviſion of money for the Soldiery, that it be inſiſted upon poſſitively, that faith<g ref="char:EOLhyphen"/>full perſons be choſen to receive accounts in every part of the king<g ref="char:EOLhyphen"/>dome, eſpecially conſidering that former Committees for accounts were conſtituted in a time when corrupt men over poured the Parlia<g ref="char:EOLhyphen"/>ment, and yet they have done no ſervice in diſcovering moneys ſince their conſtitution, and herein its to be inſiſted on, that all without di<g ref="char:EOLhyphen"/>ſtinction, as well parliament men as others, may be equally accounta<g ref="char:EOLhyphen"/>ble to perſons choſen for that purpoſe.</p>
+            <p>Now herein its further to be inſiſted on, that whereas the time was wholly corrupt when perſons were appointed to make ſale of Biſhops lands, and whereas Parliament men, Committee men, and their kinſ<g ref="char:EOLhyphen"/>folkes were the only buyers, and much is ſold, and yet its pretended, that little or no money is received, and whereas Lords, Parliament<g ref="char:EOLhyphen"/>men, and ſome other rich men, have vaſt ſums of arreers allowed them in their purchaſe, and all their moneys lent to the ſtate paid them, while others are left in neceſſitie, to whom the ſtate is much indebted, and ſo preſent money that might be for the equall advantage of all, is not brought into the publique Treaſury by thoſe ſales. Its therefore to be inſiſted on, that the ſale of Biſhops lands be received, and that they may be ſold io their worth, and for preſent moneys, for the publike
+<pb n="17" facs="tcp:161225:10"/>uſe, and yet the ſale of all ſuch be recalled, as have not been ſold to their worth, or for preſent moneys.</p>
+            <p>And it is further offered in conſideration that the Court have occa<g ref="char:EOLhyphen"/>ſioned the late warre, and reduced the ſtate to ſuch neceſſity, by cauſ<g ref="char:EOLhyphen"/>ing ſuch vaſt expence of treaſure, that therefore whereas the many op<g ref="char:EOLhyphen"/>preſſions of the people, and the danger of abſolute tyrany, were the occaſion of the expence of ſo much blood, and whereas the people have bought their rights and freedomes, by the price of blood, and have in vaine waſted long ſince, the common enemie, hath been ſub<g ref="char:EOLhyphen"/>dued for the redreſſe of their grievances and oppreſſions, that there<g ref="char:EOLhyphen"/>fore it be demanded as the peoples due, which ought not to denyed to the Army or to them yet ſeeing the King hath his Court and lives in honour, yet before his buſineſſe be further conſidered, becauſe the peo<g ref="char:EOLhyphen"/>ple are under much oppreſſion and miſery, it be forthwith the whole worke of the Parliament, to heare conſider of, and ſtudy effectually re<g ref="char:EOLhyphen"/>dreſſe for all common grievances and oppreſſions, and for the ſecuring all other the peoples rights and freedomes, beſides all theſe afore men<g ref="char:EOLhyphen"/>tioned, and in particuler.</p>
+            <p>Firſt, that all the orders, votes, ordinances or declarations, that have paſſed either to diſcountenance petitions, ſuppreſſe, prevent or burne petitions, impriſon or declare againſt petitioners, being dangerous preſidents againſt the freedom of the people, may be forthwith expung<g ref="char:EOLhyphen"/>ed out of the Journall books, &amp; the injuſtice of them clearly declared to all the people, and that in ſuch a declaration the ſoldiery be vindicated, as to the right and equity of their firſt petition, all thoſe large ſummes of money that were allowed to needleſſe pretended Officers of the Court which did but increaſe wickedneſſe and prophaneneſſe, may be reſerved for a publiqve treaſure to be extended in paying thoſe Lords that muſt be maintained, for the peoples ſafety, and whereas there is now 50. l. <hi>perdiem:</hi> allowed for the court, who offered that there might be 300 l. <hi>perdiem:</hi> allowed for the court, to be paid out of the publique treaſury, through a good and faithfull improvement of al the Lands pertaining to the Court, there muſt be as much reſerved for leaving publique charges, and eaſing the people.</p>
+            <p>And its further offered, that whereas millions of money, have been kept in deads ſtock in the City of <hi>Lonndon</hi> the Hals and Companies, and the free men of the City could never obtaine any account thereof, ac<g ref="char:EOLhyphen"/>cording to their right. That therefore a juſt and ſtrict account may be fhorthwith given to all the free men of any thoſe dead ſtocks, and yet
+<pb n="18" facs="tcp:161225:11"/>whereas there hath been nothing paid out of thoſe, nor for the lands pertaining to the City, whiles the eſtates of others have been much waſted, by continuall payments, that therefore proportionable ſumms to what other eſtates have payd, may be taken out of thoſe dead ſtocks, and lands which would amount to ſuch vaſt ſums, as would pay much of the ſoldiers arreares, without ou<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hening the oppreſſed people.</p>
+            <p>And its further offered, that forreſt lands, and Deanes and Chapters lands, be immediately <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> part for the arrears of the Army, and that the revenue of theſe and the reſidue of Biſhops lands unfold till the time of ſale may be forthwith appoynted to be paid unto our Trea<g ref="char:EOLhyphen"/>ſury, to be reſerved for the ſoldiers conſtant pay. And its to be wiſhed that only ſuch part of the aforeſaid lands be ſold as neceſſity requires, to ſatisfie the ſoldiery for arreares, and that the reſedue be reſerved and improved for a conſtant revenue for the State that the people may not be burthened, and that out of the revenues publique debts may be paid, and not firſt taken out of their own purſest to be repayed to them.</p>
+            <p>And its further offered for the peoples eaſe, that the arreers of all for<g ref="char:EOLhyphen"/>mer aſſeſſements be duly collected from thoſe who have ſufficient eſtates, and have not been impoveriſhed by the warre.</p>
+            <p>And whereas its conceived that the fees of receivers of cuſtomes and Excize if they were juſtly computed, would amount to neere as much at the Armies pay, its therefore offered that ſpeedy conſideration be had of the multitude of thoſe officers and their exceſſive fees, and profits, as 500. 600. 1000. 1200. l. <hi>per annum.</hi> As alſo that many Excize men appoint whom they pleaſe as their ſubſtitute, and alow what they pleaſe for their pay, that the officers may be few, and conſtant ſtipends allowed them none ex<g ref="char:EOLhyphen"/>ceeding 200. l. <hi>per annum,</hi> that ſo more moneys may be brought into the publ<gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> treaſury.</p>
+            <p>And for the eaſe and ſatiſfaction of the people, its further to be inſiſted on, that the charge of all the forces to be kept up in the kingdome by ſea or land, be particularly computed and publiſhed, and that all taxes that ſhall be neceſſary, may be wholly pro<g ref="char:EOLhyphen"/>portioned, according to that charge; and that there be an equall rate propounded throughout the kingdome in all aſſeſſements, that ſo one town may not beare double the proportion of another of the ſame value.</p>
+            <p n="4">4. That all Monopolyes be forthwith removed, and no perſons whatſoever may be permitted to reſtraine others from free trade.</p>
+            <p n="5">5. That the maſt ſad oppreſſions of priſoners be forth with eaſed and removed, and that no perſon that hath no eſtate reall or perſonall, nor any perſon that ſhall willingly yeeld up his eſtate to ſatisfie his creditors may be detained in priſon to the ruine of their perſons and families, and likewiſe, that no perſon impriſoned in a criminall cauſe, may be detained from his legall tryall any longer then the next rear me.</p>
+            <p n="6">6. That all Statutes, for the Common prayer book, and for enforcing all to come to
+<pb n="19" facs="tcp:161225:11"/>Church, whereby many religious and conſcientious people are dayly vexed and oppreſ<g ref="char:EOLhyphen"/>ſed be forthwith repealed and nulled. As alſo that all Statutes againſt Convinticles, under the pretence of which, religious people are vexed for private meetings about the <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> may be likewiſe repealed and nulled.</p>
+            <p n="7">7. That all the oppreſſive, ſtatutes, enforcing all perſons though againſt their conſci<g ref="char:EOLhyphen"/>ence, to pay T<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thes, whereby the husbandman cannot eate the fruit of his labour, may be forthwith repealed and nulled.</p>
+            <p n="8">8. That all ſtatutes enforcing the taking of oaths, as in townes corporate, the oath of Supreamacy, &amp;c. Wherein either the whole oaths, or ſome clauſes in them, are bur<g ref="char:EOLhyphen"/>thens, and ſnares to conſcientious people may be repealed and nulled.</p>
+            <p n="9">9. That it be declared that no perſon or Court ſhall have power or be permitted to enforce any perſon to make oath, or anſwer to any Interrogatories concerning himſelf, in any criminall caſe.</p>
+            <p n="10">10. That a Committee of conſcientious perſons be forthwith ſelected to conſider of the moſt intollerable oppreſſions by unjuſt proceedings in the law, that with all the lawes might be reduced to a ſmaller number, to be comprized in one volume in the the Engliſh tongue, that every free Commoner might underſtand his own procee<g ref="char:EOLhyphen"/>dings, that Courts might be in the reſpective Counties or Hundreds, that proceedings might become ſhort and ſpeedy, and that the numberleſſe grievances in the law and Lawyers, might be redreſſed as ſoone as poſſible.</p>
+            <p n="11">11. That all priviledges and protections above the law, whereby ſome perſons are ex<g ref="char:EOLhyphen"/>empted from the force and power thereof, to the inſufferable vexation and ruine of multitudes of diſtreſſed people. may be forthwith abbrogated.</p>
+            <p n="12">12 That all the antient rights and donations belonging to the poore, now imbez<g ref="char:EOLhyphen"/>led and converted to other uſes, as incloſed Commons, Alms houſes, &amp;c. throughout all parts of the land, may be forthwith reſtored to the antient publique uſe and ſervice of the poore, in whoſe hands ſoever they be detained.</p>
+            <p>Many other grievances are and ought to be redreſſed, but theſe as they are propoun<g ref="char:EOLhyphen"/>ded, we conceive might be in a very ſhort time redreſſed to the reliefe of many diſtreſſed ones, and to a generall eaſe; or at leaſt, put into a way, wherein there might be viſible hopes of remedie, and therefore theſe might be demanded as due to the people, though we deſire the Counties might be encouraged to repreſent all their other grievances alſo for ſpeedy redreſſe.</p>
+            <p n="7">7. Generall head. That it be inſiſted on, that ſuch Indempnitie be forthwith given both for the Soldiery and all that gave them aſſiſtance, and ſhall provide ſecurely for their quiet, eaſe and ſafety, and prevent all chargeable journeys to London, to ſeek af<g ref="char:EOLhyphen"/>ter and waite upon Committees.</p>
+            <p n="8">8. That in ſome of the fore mentioned wayes, ſecurity be given for arreers forth<g ref="char:EOLhyphen"/>with, that as ſoone as the rights and freedomes of the people be ſecured according as its hereupon propounded, and the other deſires of the Army in relation to their particular freedome from preſſing: and proviſion to be made in a certaine and no diſho<g ref="char:EOLhyphen"/>nourable way for maimed Soldiers, Widowes, and Orphans, that ſhall continue during their lives, then the Armes may be diſpoſed into the hands of the faithfull well affected of the Nation, which may be ſo formed into a mi<g ref="char:EOLhyphen"/>litary poſture, as to be ready on all occaſions of ſervice, and as many of the forces that
+<pb n="20" facs="tcp:161225:12"/>are kept in conſtant pay, as ſhall not be abſolutely neceſſary for the preſervation and ſafety of the people, may be as ſpeedily as poſſible disbanded, that they may not be a burthen to the Nation.</p>
+            <p n="9">9. Whereas mercy and juſtice are the foundations of a laſting peace, its neceſſary to be inſiſted on (for the healing differences as far as poſſible,) That all thoſe whoſe eſtates have been ſequeſtered, and yet were not in armes for the King, or gave any actuall aſſiſtance to him in men, money, or armes, plate, horſe, &amp;c. in the late warre, that all ſuch be diſcharged forthwith from their ſequeſtrations: and that all ſuch as have com<g ref="char:EOLhyphen"/>pounded, may not be enforced, to pay the five or twenteth part, ſeeing their whole eſtates were ſo long under ſequeſtration: and that all thoſe that have not compounded, who were in Armes for the King, may be compelled forthwith to compound, provided, that their Compoſitions be ſo moderate, as none may exceed two yeares revenue, that their families be not ruined, and they put upon deſperate attempts againſt the peace of the Nation to preſerve themſelves.</p>
+            <p>Theſe things propounded are no more then what we conceived, ſhould have been tho<g ref="char:EOLhyphen"/>roughly done long ſince, being as to the principall of them but this ſubſtance and equitable ſenſe of the former declarations, Remonſtrances? and repreſentations, and therefore though our reſtleſſe deſires of the peoples good, and of the welfare of the Ar<g ref="char:EOLhyphen"/>my, have conſtrained us thus publiquely to ſtate our caſe, and the remedie according to the beſt improvement of the ſmall Tallent of underſtanding that God hath given freely to us. Yet let not the matter be prejudged becauſe of the unworthy Authors, nei<g ref="char:EOLhyphen"/>ther let it be thought preſumption. It may be remembred that the Fathers danger made a dumb child to ſpeake, and the Armys yea all the peoples dangers and miſeryes have wreſted open our mouthes, who had otherwiſe been ſilent in this kinde to the grave, and let it not be thought that we intend the diviſion of the Army, we profeſſe we are deeply ſenſible and deſire all our fellow ſoldiers to conſider it.</p>
+            <p>In caſe the union of the Army ſhould be broken, (which the enemie waite for,) ruine and deſtruction will breake in upon us like a roaring ſea, but we are much confident that the adhearing to thoſe deſires and to that ſpeedy way of attaining our juſt ends for which we firſt ingaged, cannot be interpreted to be a deſire of diviſion, but the ſtrong<g ref="char:EOLhyphen"/>eſt vigorous endeavours after union, and though many whom we did bettuſt have been guilty of moſt ſapine negligence, yet we expect that the ſame inſtruction of judgement and conſcience, that we have all profeſſed, did command us forth at firſt for the peoples Freedome will be againe ſo effectuall, that all will unannimuſly concurre with us ſo that a demand of the peoples and Armyes rights ſhall be made by the whole Army as by one man, that then all the enemies to, or obſtructors of the happy ſettlement of com<g ref="char:EOLhyphen"/>mon right, peace and freedome, may heare of our union and reſolution, and their hands may be weake, and their hearts may fayle them, and ſo this Army that God hath cloath<g ref="char:EOLhyphen"/>ed with honour in ſubduing the common enemie, may yet be more honourable in the peoples eyes, when they ſhall be called the Repayters of their breaches, and the reſtor<g ref="char:EOLhyphen"/>ers of their peace, right, and freedome.</p>
+            <p>And this is the prayer, and ſhall alwayes be the earneſt endeavours of.</p>
+            <closer>
+               <signed>
+                  <hi>The Armie and all the peoples moſt faithfull ſervants.</hi>
+                  <list>
+                     <item>
+                        <list>
+                           <head>Lievt. Gen.</head>
+                           <item>
+                              <hi>Robert Everard.</hi>
+                           </item>
+                           <item>
+                              <hi>George Sadler.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Com. Gen. </head>
+                           <item>
+                              <hi>George Garret.</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas Beverly.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Col Fleetwood. </head>
+                           <item>
+                              <hi>William Priar.</hi>
+                           </item>
+                           <item>
+                              <hi>William Bryan.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Col. Whalyes. </head>
+                           <item>
+                              <hi>Matthew Wealy.</hi>
+                           </item>
+                           <item>
+                              <hi>William Ruſſell.</hi>
+                           </item>
+                           <item>
+                              <hi>Richard Seale.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>C. Riches. </head>
+                           <item>
+                              <hi>Iohn Dober.</hi>
+                           </item>
+                           <item>
+                              <hi>William Hudſon.</hi>
+                           </item>
+                           <item>Agitators.</item>
+                        </list>
+                     </item>
+                  </list>
+               </signed>
+               <dateline>
+                  <hi>Gilford.</hi> 
+                  <date>
+                     <hi>October</hi> 9, 1647.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="letter">
+            <pb n="21" facs="tcp:161225:12"/>
+            <head>A Copy of a letter from the Agents of the aforeſaid five Regiments of Horſe, unto His Excellencie, Sir <hi>Thomas Fairfax.</hi>
+            </head>
+            <opener>
+               <salute>May it pleaſe your Excellencie,</salute>
+            </opener>
+            <p>FRom the deep ſenſe of out duty to God, to our native Country, to your Excellency, to this armie, and to our ſelves, &amp; to poſterities to come, we find ſuch obli<g ref="char:EOLhyphen"/>gations upon our conſciences, written naturally by the finger of God in our hearts, that we cannot behold the honour of God to be impaired, the workes of his hands the land of our Nativity, your Excellency, this army, our ſelves, or poſterities, ready to be ſwallowed and devoured up in confuſion, thraldome and ruine, and to ſit ſtill, and not ariſe in the ſtrength of his might, to contribute our beſt endeavours for the prevention thereof; for, God hath given no man a talent to be wrapt up in a Napkin and not improved, but the meaneſt vaſſell in the eye of the world is equally obleiged and accomptable to God with the grea<g ref="char:EOLhyphen"/>teſt Prince or Commander under the Sun, in and for the uſe of that talent betruſted unto him: and therefore we preſume that your Excellencie (who does acknowledge your ſelfe a creature of, and ſervant to the ſame God) will not thinke it ſtrange, or judge us diſobedient or refractoy, that we ſhould, as we have preſumed, to ſtate the caſe of the army, how declined from its firſt principles of ſafety, what miſchiefes are threatned thereby, and what remedies are ſutable for prevention, which herewith we doe humbly preſent and offer unto your Excellencie; for, Sir ſhould you, yea, ſhould the whole Parliament or Kingdome exempt us from this ſervice, or ſhould command our ſilence and forbearance, yet could not they nor you diſcharge us of our duties to God, or to our own na<g ref="char:EOLhyphen"/>tures,
+<pb n="22" facs="tcp:161225:13"/>for we muſt be accomptable, and judgement will come for the deeds done in our fleſh, whether good or evill; and he that hath not improved and put forth his talent to uſe, ſhall be bound hand and foot, and caſt into the lake of eternall vengeance: So that we are bold from our ſenſe of your Excellencies piety honeſty and up<g ref="char:EOLhyphen"/>rightneſſe to God and to your Country, that in this our diſcharge of our duties to both, we ſhall not ineurre your diſpleaſure or diſ<g ref="char:EOLhyphen"/>countenance, but that you will freely commit us and the iſſue of our endeavours to God, and if it be of him it will ſtand, and from our conſciences we atteſt, and proteſt in the preſence of his all ſee<g ref="char:EOLhyphen"/>ing diety, as we deſire ſafety in this life, or in that which is to come, we have no other then cordiall and fathfull intents and reſolutions to the undoubted ſafety and weale of our native country, to Par<g ref="char:EOLhyphen"/>liaments your Excellency, &amp; this army in this buſineſſe repreſented in theſe incloſed papers, &amp; we do utterly abhor &amp; renounce al ſecret or private deſigns or intereſt under the ſame, together with all that is contrary to the plain and vulgar ſenſe, expreſſed in the premiſes therof. And if by any one your Excellencie ſhalbe ſuborned, that we are tranſgreſſors of all order and forme, and in that ſenſe only to looke upon us. We deſire to mind your Excellencie, that the law of nature and nations atteſted in our own publique Declarations and papers may be an anſwer to ſuch for the juſt fication of our preſent expedient, for all formes are but as ſhadowes and ſubject to the end, and the ſafety of the people is above all formes, cuſtomes, &amp;c. and the equity of popular ſafety, is the thing which juſtifi<g ref="char:EOLhyphen"/>eth all formes or the change of formes for the accompliſhment thereof; and no formes are lawfull longer then they preſerve or accompliſh the ſame. If our duties bind us when we ſee our neighbours houſe on fire, to wave all formes, ceremonies or com<g ref="char:EOLhyphen"/>plements, and forthwith (not waiting for order or leave) to at<g ref="char:EOLhyphen"/>tempt the quenching thereof without further ſcruple, as thereunto called of God, we ſay if we be ſo oblieged and called in the caſe of a particular, then much more are we obleiged and called, when we behold the <hi>Great Mantion houſe</hi> of this <hi>Common wealth,</hi> and of this <hi>Armie</hi> (wherein all the families of the Nation are contained) <hi>on fire,</hi> all ready to be devoured with ſlavery, confuſion and ruine, and
+<pb n="23" facs="tcp:161225:13"/>their nationall native freedome (the price of their treaſure and blood) wreſted out of their hands, as at this preſent appeareth to our beſt underſtandings: And therefore in this exigencie and ſtraight of extremity, we from the very dictates of Divinity, Nature and Reaſon ingraven in our hearts could not otherwiſe chuſe (with quiet and peace to our conſciences, (which no mortall man can take from us or ſuppreſſe the overpouring motives thereof) but conſi<g ref="char:EOLhyphen"/>der with our ſelves, what we ſhould doe to award thoſe threatnning miſchiefes from this nation and army &amp; to that end we find nothing more effectuall then to knit our ſelves together with this fixed re<g ref="char:EOLhyphen"/>ſolution, to part with our lives and all that is neare and deare unto us, before we part with our freedomes; and in relation thereunto we the Agents to five Regiments of your Horſe, have after our weak manner in this our Repreſentatation directed to our reſpe<g ref="char:EOLhyphen"/>ctive Regiments and to the whole Army, diſcharged our duties; And we preſume we haue not erred from the equitable ſenſe of our ſolemn Engagement, or from the juſt maximes and matters contained in our Declarations. Remonſtrances, &amp;c. from the which we are reſolved not to receed. Thus humbly craving your Excellencies favourable conſtruction in our innocent intentions and endeavours, we (as we alwayes have been) cordially remaine.</p>
+            <closer>
+               <signed>Your Excellencies, and this Nations faithfull Servants and Soldiers, to ſtand or fall with you and it, for common Right and Freedome.
+<list>
+                     <item>
+                        <list>
+                           <head>Lievt. Gen.</head>
+                           <item>
+                              <hi>Edward Trevers.</hi> 
+                           </item>
+                           <item>
+                              <hi>Edmon Bear.</hi>
+                           </item>
+                           <pb n="24" facs="tcp:161225:14"/>
+                           <item>
+                              <hi>Edward Trevers.</hi>
+                           </item>
+                           <item>
+                              <hi>Edmon Bear.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Com Gen.</head>
+                           <item>
+                              <hi>George Garret.</hi>
+                           </item>
+                           <item>
+                              <hi>Jeremiah Cole.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Col. Fleetwood.</head>
+                           <item>
+                              <hi>William Prior.</hi>
+                           </item>
+                           <item>
+                              <hi>William Bryan.</hi>
+                           </item>
+                           <item>
+                              <hi>John Fletcher.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Col. Riches.</head>
+                           <item>
+                              <hi>Iohn Dober.</hi>
+                           </item>
+                           <item>
+                              <hi>William Hudſon.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Col. Whaleys.</head>
+                           <item>
+                              <hi>Matth. Wealey.</hi>
+                           </item>
+                           <item>
+                              <hi>William Ruſſell..</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </signed>
+               <dateline>Hamſtead, <date>
+                     <hi>October</hi> 15. 1647.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>Wee appoint <hi>Edmond Bear,</hi> and <hi>William Ruſſell</hi> aboveſaid, in our names to preſent this Letter toge<g ref="char:EOLhyphen"/>ther with our Repreſentation intituled, The caſe of the Army, &amp;c. to his Excellency Sir <hi>Thomas Fairfax.</hi>
+               </p>
+            </postscript>
+         </div>
+      </back>
+   </text>
+</TEI>
